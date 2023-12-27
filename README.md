@@ -9,13 +9,13 @@ The dataset contains information about insurance claims, and it includes the fol
 
 * Catastrophic_Event: The type of catastrophic event associated with the insurance claim (Earthquake, Flood, Fire, Hurricane).
 
-Insurance_Claims: The amount of the insurance claim.
+* Insurance_Claims: The amount of the insurance claim.
 
-Location: The location of the insured property (Urban, Suburban, Rural).
+* Location: The location of the insured property (Urban, Suburban, Rural).
 
-Building_Structure: The type of building structure (Wood, Concrete, Steel).
+* Building_Structure: The type of building structure (Wood, Concrete, Steel).
 
-Insured_Value: The insured value of the property.
+* Insured_Value: The insured value of the property.
 
 ## Table of Contents
 
