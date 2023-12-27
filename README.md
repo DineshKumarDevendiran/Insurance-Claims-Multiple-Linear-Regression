@@ -7,7 +7,7 @@ This project analyzes insurance premiums using multiple linear regression. It ex
 ## Dataset Information:
 The dataset contains information about insurance claims, and it includes the following attributes:
 
-Catastrophic_Event: The type of catastrophic event associated with the insurance claim (Earthquake, Flood, Fire, Hurricane).
+* Catastrophic_Event: The type of catastrophic event associated with the insurance claim (Earthquake, Flood, Fire, Hurricane).
 
 Insurance_Claims: The amount of the insurance claim.
 
